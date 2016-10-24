@@ -6,7 +6,7 @@ This is the list of projects I did for my [Senior Web Developer Nanodegree](http
 
 This project was about creating Semantic Forms.
 
-- [Project Requirements](https://github.com/bsylview/eventplanner/#Requirements)
+- [Project Requirements](https://github.com/bsylview/eventplanner/#requirements)
 - [Source Code](https://github.com/bsylview/eventplanner)
 - [My App](https://eventplanner-bc2ec.firebaseapp.com)
 
