@@ -36,3 +36,11 @@ In this project I created a Corporate Dashabord application using a front-end fr
 - [Project Requirements](https://github.com/bsylview/corpdashboard#project-brief)
 - [Source Code](https://github.com/bsylview/corpdashboard)
 - [My App](https://dashboardcorp.herokuapp.com/)
+
+
+## Project 5 - Capstone Project
+
+This project was a culmination of all the past ones. I created an offline-first web application that functioned just as a native application would.
+
+- [My App](https://slidesf.herokuapp.com/)
+- [Admin](https://slidesf-admin.herokuapp.com/)
